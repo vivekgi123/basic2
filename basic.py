@@ -1,6 +1,3 @@
-
- 
-
 # def outer_function():
 #     a = 20
 
@@ -1003,5 +1000,4 @@
 
 # print(countdown(test_dict))
 
-print("hello rishi")
-print("hello vivek")
+print("hello")
